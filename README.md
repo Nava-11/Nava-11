@@ -42,8 +42,7 @@
 
 ### 📬 Let’s Connect
 
-- 🌐 [LinkedIn](https://www.linkedin.com/in/navaneeth-hr)
-- 💬 DM me on Discord: `@navhr`
+- 🌐 [LinkedIn](https://www.linkedin.com/in/h-r-navaneeth-b2938225b/)
 - ✨ Portfolio (coming soon...)
 
 ---
