@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Navaneeth HR</h1>
 <h3 align="center">🚀 Final-year CSE student | Aspiring Software Developer | AI, Web & Space-Tech Enthusiast</h3>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=navaneeth-hr&label=Profile%20views&color=0e75b6&style=flat" alt="navaneeth-hr" />
-</p>
 
 ---
 
