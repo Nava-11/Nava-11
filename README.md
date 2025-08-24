@@ -10,13 +10,8 @@
 
 ### 💡 Ongoing Projects
 
-- 🔭 **[AstroPlanIt](#)** – An AI-powered planet terraforming simulator 🌍  
-  > Now integrating **AstroPulse**, which turns real cosmic events into music. Think *Spotify of the Universe* 🎵🪐
-
 - 🧠 **[LifeStream AI](#)** – Your life’s story, reimagined  
   > Auto-summarizes your calendar, Gmail, and emotional tone into beautiful monthly life reports 📅📬✨
-
-- 🔐 Built an **AI-based Intrusion Detection System for Connected Vehicles** as part of a cybersecurity challenge.
 
 ---
 
@@ -48,17 +43,4 @@
 
 > I believe **technology becomes magical** when it **feels** human. That’s what I aim to build.
 
----
 
-<!-- GitHub stats -->
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=navaneeth-hr&show_icons=true&theme=tokyonight" alt="navaneeth-hr stats"/>
-  <br>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=navaneeth-hr&theme=tokyonight" alt="navaneeth-hr streak"/>
-</p>
-
-
-<!---
-Nava-11/Nava-11 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
